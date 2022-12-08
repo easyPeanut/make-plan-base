@@ -1,4 +1,4 @@
-# temporary-base
+# make-plan-base
 
 
 ## easyPeanut 프로젝트 구성
